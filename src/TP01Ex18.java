@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 18
  * Enunciado: Entrar via teclado com o valor de cinco produtos. Após as entradas, digitar um

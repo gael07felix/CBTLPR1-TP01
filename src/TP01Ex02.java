@@ -14,6 +14,6 @@ public class TP01Ex02 {
 		Scanner leitor = new Scanner(System.in);
 		System.out.println("Digite a aresta do quadrado: ");
 		int aresta = leitor.nextInt();
-		System.out.println("A área do quadrado é: " + Math.pow(aresta, 2));
+		System.out.println("A área do quadrado é: " + (aresta * aresta));
 	}
 }

@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 15
  * Enunciado: Entrar via teclado com o valor da cotação do dólar e uma certa quantidade de

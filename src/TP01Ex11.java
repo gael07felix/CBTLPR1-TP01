@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 11
  * Enunciado: A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área.

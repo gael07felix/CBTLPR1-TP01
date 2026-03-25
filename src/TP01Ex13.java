@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 13
  * Enunciado: Calcular e exibir a velocidade final (em km/h) de um automóvel, a partir dos
@@ -19,6 +18,6 @@ public class TP01Ex13 {
 		double a = leitor.nextDouble();
                 System.out.println("Digite o tempo em segundos: ");
 		double t = leitor.nextDouble();
-		System.out.println("A velocidade final do automóvel é de: " + (3.6*((vi+(a*t)))) + "km/h.");
+		System.out.println("A velocidade final do automóvel é de: " + (3.6*((vi+(a*t)))) + " km/h.");
 	}
 }

@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 09
  * Enunciado: Calcular e exibir a tensão de um determinado circuito eletrônico a partir dos
@@ -16,6 +15,6 @@ public class TP01Ex09 {
 		double res = leitor.nextDouble();
 		System.out.println("Digite o valor da corrente em amperes: ");
 		double corrente = leitor.nextDouble();
-		System.out.println("A tensão é de: " + res*corrente + "volts.");
+		System.out.println("A tensão é de: " + res*corrente + " volts.");
 	}
 }

@@ -1,6 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
-
 /*
  * Exercício 16
  * Enunciado: Entrar via teclado com o valor de um ângulo em graus, calcular e exibir as
@@ -10,7 +8,6 @@ import java.lang.Math;
  * Alunos:
  * Gael Felix
  * João Gabriel
-  Testando 
  */
 public class TP01Ex16 {
     public static void main(String[] args) {

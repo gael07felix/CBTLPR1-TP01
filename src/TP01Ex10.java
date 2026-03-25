@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 10
  * Enunciado: Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e

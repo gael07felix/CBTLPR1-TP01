@@ -32,8 +32,6 @@ public class TP01Ex01 {
             }
 
         } while (v);
-
-        leitor.close();
     }
 }
 

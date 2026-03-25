@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 17
  * Enunciado: Entrar via teclado com dois valores quaisquer “X” e “Y”. Calcular e exibir o

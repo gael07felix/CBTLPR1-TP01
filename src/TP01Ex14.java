@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 14
  * Enunciado: Calcular e exibir o volume livre de um ambiente que contém uma esfera de raio

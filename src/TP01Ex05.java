@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 /*
  * Exercício 05
  * Enunciado: Calcular e exibir o volume de uma esfera a partir do valor de seu diâmetro que será digitado.
